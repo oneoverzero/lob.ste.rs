@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lobsters</title>
-    <link>https://brunoamaral.github.io/lob.ste.rs/categories/</link>
+    <link>http://lob.ste.rs/categories/</link>
     <description>Recent content in Categories on Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     
-	<atom:link href="https://brunoamaral.github.io/lob.ste.rs/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lob.ste.rs/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oozlabs</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/categories/oozlabs/</link>
+      <link>http://lob.ste.rs/categories/oozlabs/</link>
       <pubDate>Tue, 20 Dec 2016 11:11:00 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/categories/oozlabs/</guid>
+      <guid>http://lob.ste.rs/categories/oozlabs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixelsdoc</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/categories/pixelsdoc/</link>
+      <link>http://lob.ste.rs/categories/pixelsdoc/</link>
       <pubDate>Tue, 06 Dec 2016 22:00:00 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/categories/pixelsdoc/</guid>
+      <guid>http://lob.ste.rs/categories/pixelsdoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/categories/uncategorized/</link>
+      <link>http://lob.ste.rs/categories/uncategorized/</link>
       <pubDate>Sun, 09 Oct 2016 22:26:34 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/categories/uncategorized/</guid>
+      <guid>http://lob.ste.rs/categories/uncategorized/</guid>
       <description></description>
     </item>
     

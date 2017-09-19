@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lobsters</title>
-    <link>https://brunoamaral.github.io/lob.ste.rs/</link>
+    <link>http://lob.ste.rs/</link>
     <description>Recent content on Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Tue, 19 Sep 2017 10:26:23 +0000</lastBuildDate>
     
-	<atom:link href="https://brunoamaral.github.io/lob.ste.rs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lob.ste.rs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artur Ventura</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/artur-ventura/</link>
+      <link>http://lob.ste.rs/lobsters/artur-ventura/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/artur-ventura/</guid>
+      <guid>http://lob.ste.rs/lobsters/artur-ventura/</guid>
       <description>&amp;nbsp;
 Artur Ventura Software Developer é um termo redutor para definir o Artur. Estamos a falar do verdadeiro Investigador dos tempos modernos. O Artur gosta de procurar soluções novas e formas mais eficientes de fazer as coisas. Quando não se dedica à investigação informática, inspecciona os segredos da gastronomia e as major leagues políticas dos Estados Unidos.
 &amp;nbsp;</description>
@@ -25,10 +25,10 @@ Artur Ventura Software Developer é um termo redutor para definir o Artur. Estam
     
     <item>
       <title>Bruno Amaral</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/bruno-amaral/</link>
+      <link>http://lob.ste.rs/lobsters/bruno-amaral/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/bruno-amaral/</guid>
+      <guid>http://lob.ste.rs/lobsters/bruno-amaral/</guid>
       <description>&amp;nbsp;
 O Bruno não sabe o que quer ser quando for grande e nós sabemos que ele sem nós estaria perdido. Trabalha em Consultoria de Comunicação Digital, brinca com computadores, gosta de escrever mas nunca encontra temas que lhe toquem ao coração.
 &amp;nbsp;</description>
@@ -36,10 +36,10 @@ O Bruno não sabe o que quer ser quando for grande e nós sabemos que ele sem n�
     
     <item>
       <title>Bruno Rodrigues</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/bruno-rodrigues/</link>
+      <link>http://lob.ste.rs/lobsters/bruno-rodrigues/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/bruno-rodrigues/</guid>
+      <guid>http://lob.ste.rs/lobsters/bruno-rodrigues/</guid>
       <description>&amp;nbsp;
 Bruno Rodrigues Este Rodrigues, que também é Tiago, é dono de um sentido de humor desmesurado que o próprio insiste em partilhar com os restantes. Engenheiro de redes que não perde as oportunidades de ir correr ou caminhar com os amigos é também o nosso troll. &amp;nbsp;Todos os grupos possuem um troll e nós gostamos muito deste.
 &amp;nbsp;</description>
@@ -47,10 +47,10 @@ Bruno Rodrigues Este Rodrigues, que também é Tiago, é dono de um sentido de h
     
     <item>
       <title>Célia Ventura</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/celia-ventura/</link>
+      <link>http://lob.ste.rs/lobsters/celia-ventura/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/celia-ventura/</guid>
+      <guid>http://lob.ste.rs/lobsters/celia-ventura/</guid>
       <description>&amp;nbsp;
 Célia Ventura Arquiteta por formação e blogger por paixão. A Célia escreve no Shoe Committee&amp;nbsp;e chegou ao grupo sem nunca ter imaginado que ia caminhar connosco por tanto tempo. É a ela que temos de agradecer a perspectiva feminina, os conselhos bem ponderados e o facto de o Nuno Nunes cortar o cabelo com regularidade.
 &amp;nbsp;</description>
@@ -58,30 +58,30 @@ Célia Ventura Arquiteta por formação e blogger por paixão. A Célia escreve 
     
     <item>
       <title>Dear lobsters</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/contact/</link>
+      <link>http://lob.ste.rs/contact/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/contact/</guid>
+      <guid>http://lob.ste.rs/contact/</guid>
       <description> Dear Lobsters {.text-align-center} Viajei por muitos parsec à vossa procura. Deixem que me apresente e vos relate a minha história…
    </description>
     </item>
     
     <item>
       <title>More Lobsters</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/more-lobsters/</link>
+      <link>http://lob.ste.rs/lobsters/more-lobsters/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/more-lobsters/</guid>
+      <guid>http://lob.ste.rs/lobsters/more-lobsters/</guid>
       <description>Há mais Lobsters, se não estão aqui listadas isso é culpa do escriba que insiste em escrever as biografias com a mesma lapiseira Rotring 0,7mm.
 Se falta aqui o vosso nome, se gostariam de o ver listado, e se o quiserem contactar,&amp;nbsp;peçam para que o vosso nome suba na lista de prioridades.</description>
     </item>
     
     <item>
       <title>Nuno Nunes</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/nuno-nunes/</link>
+      <link>http://lob.ste.rs/lobsters/nuno-nunes/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/nuno-nunes/</guid>
+      <guid>http://lob.ste.rs/lobsters/nuno-nunes/</guid>
       <description>&amp;nbsp;
 Nuno Nunes O currículo do Nuno diz Arquiteto de Sistemas mas não se deixem enganar. Este amante de trocadilhos tem uma mente irrequieta que já o levou à música e à edição de vídeo. Um dos membros fundadores, pode dizer-se, que entrou nesta corrente por força das ideias intrigantes do 1&amp;frasl;0 e de um batom do cieiro.
 &amp;nbsp;</description>
@@ -89,10 +89,10 @@ Nuno Nunes O currículo do Nuno diz Arquiteto de Sistemas mas não se deixem eng
     
     <item>
       <title>Sérgio Bernardino</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/lobsters/sergio-bernardino/</link>
+      <link>http://lob.ste.rs/lobsters/sergio-bernardino/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/lobsters/sergio-bernardino/</guid>
+      <guid>http://lob.ste.rs/lobsters/sergio-bernardino/</guid>
       <description>&amp;nbsp;
 Sérgio Bernardino O Sérgio não perde o foco. Troca com toda a frequência possível as linhas de código pelas noites de música ao vivo e as sessões de cinema sem esquecer a fotografia analógica ou digital. Está tudo à vista no portfolio.
 &amp;nbsp;</description>
@@ -100,10 +100,10 @@ Sérgio Bernardino O Sérgio não perde o foco. Troca com toda a frequência pos
     
     <item>
       <title>The Lobsters</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/the-lobsters/</link>
+      <link>http://lob.ste.rs/the-lobsters/</link>
       <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/the-lobsters/</guid>
+      <guid>http://lob.ste.rs/the-lobsters/</guid>
       <description>Mas o que são estas lagostas? Se nos perguntarem o que somos a resposta vai ser complicada. É tudo demasiado aleatório e ao mesmo tempo há ali um fio condutor que está sempre a mudar e nos mantém unidos.
  &amp;#8220;Birds of a Feather.”
  Diz o João. Só que não voamos.
@@ -113,30 +113,30 @@ Sérgio Bernardino O Sérgio não perde o foco. Troca com toda a frequência pos
     
     <item>
       <title>Árvore de Natal por medida</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/20/20161220arvore-de-natal-por-medida/</link>
+      <link>http://lob.ste.rs/2016/12/20/20161220arvore-de-natal-por-medida/</link>
       <pubDate>Tue, 20 Dec 2016 11:11:00 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/20/20161220arvore-de-natal-por-medida/</guid>
+      <guid>http://lob.ste.rs/2016/12/20/20161220arvore-de-natal-por-medida/</guid>
       <description>Não somos uma família convencional, não gostamos do habitual. O Natal é uma altura do ano que vivemos com muita intensidade e que gostamos de celebrar, em que temos as nossas tradições e em que gostamos de receber muitos amigos, a família que se escolhe, não para trocar presentes mas para passarmos umas boas horas em convívio.
 Partilhar uma vida com uma pessoa que gosta de fazer coisas é um constante desafio.</description>
     </item>
     
     <item>
       <title>Lobsters a criar – o projecto OOZ Labs</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</link>
+      <link>http://lob.ste.rs/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</link>
       <pubDate>Sat, 10 Dec 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</guid>
+      <guid>http://lob.ste.rs/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</guid>
       <description>Os lobsters gostam muito de falar. Discutem tudo, desde os temas mais banais de cultura pop até aos conceitos científicos mais avançados ou mesmo os assuntos mais rebuscados como a vinda da Singularidade, passando pela fotografia e outras expressões artísticas e… e muito mais!
 Mas também há nesta gente a vontade de criar, não só no mundo virtual mas também no mundo fisico. Alguns de nós até conseguem, de vez em quando, arranjar algum tempo livre para dedicar a essas actividades criativas e foi desse núcleo que nasceu o projecto OOZ Labs (OneOverZero Labs.</description>
     </item>
     
     <item>
       <title>PixelsDoc – Lobsters Making Movies</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</link>
+      <link>http://lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</link>
       <pubDate>Tue, 06 Dec 2016 22:00:00 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</guid>
+      <guid>http://lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</guid>
       <description>Maybe you&amp;#8217;ve heard of Pixels Camp?&amp;nbsp;Or perhaps, more likely, the name Codebits rings a bell?
 Well, if you don&amp;#8217;t know what any of those things are (hint: they are the same thing, with a different name because of a recent re-branding) you are in luck because these Lobster friends of yours are about to embark on a new project that will make it all clear.
 As anyone who knows about these events might guess, the bulk of the Lobsters cabal has been drawn to them ever since they started happening in 2007.</description>
@@ -144,10 +144,10 @@ As anyone who knows about these events might guess, the bulk of the Lobsters cab
     
     <item>
       <title>Lob.ste.rs v1.0</title>
-      <link>https://brunoamaral.github.io/lob.ste.rs/2016/10/09/2016109lobsters-v10/</link>
+      <link>http://lob.ste.rs/2016/10/09/2016109lobsters-v10/</link>
       <pubDate>Sun, 09 Oct 2016 22:26:34 +0000</pubDate>
       
-      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/10/09/2016109lobsters-v10/</guid>
+      <guid>http://lob.ste.rs/2016/10/09/2016109lobsters-v10/</guid>
       <description>Os lobsters são um grupo bastante profícuo em ideias loucas, trocadilhos inesperados e histórias para contar.
 Mesmo muitas histórias para contar.
 São os responsáveis pelo OneOverZero Labs, pela proibição das Nerfs no último Codebits, e pela tarefa improvável de arrumar a garagem do Fernando Afonso.

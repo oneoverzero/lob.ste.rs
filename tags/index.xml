@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lobsters</title>
-    <link>https://brunoamaral.github.io/lob.ste.rs/tags/</link>
+    <link>http://lob.ste.rs/tags/</link>
     <description>Recent content in Tags on Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     
-	<atom:link href="https://brunoamaral.github.io/lob.ste.rs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lob.ste.rs/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
