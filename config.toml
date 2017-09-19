@@ -29,15 +29,53 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   url = "/"
 
 [[menu.main]]
-  name = "Works"
+  name = "Artur Ventura"
   weight = 20
-  identifier = "works"
-  url = "https://github.com/laozhu"
+  identifier = "artur-ventura"
+  url = "/lobsters/artur-ventura"
+
+[[menu.main]]
+  name = "Bruno Amaral"
+  weight = 20
+  identifier = "bruno-amaral"
+  url = "/lobsters/bruno-amaral"
+
+[[menu.main]]
+  name = "Bruno Rodrigues"
+  weight = 20
+  identifier = "bruno-rodrigues"
+  url = "/lobsters/bruno-rodrigues"
+
+[[menu.main]]
+  name = "Célia Ventura"
+  weight = 20
+  identifier = "celia-ventura"
+  url = "/lobsters/celia-ventura"
+
+[[menu.main]]
+  name = "Nuno Nunes"
+  weight = 20
+  identifier = "nuno-nunes"
+  url = "/lobsters/nuno-nunes"
+
+[[menu.main]]
+  name = "Sérgio Bernardino"
+  weight = 20
+  identifier = "sergio-bernardino"
+  url = "/lobsters/sergio-bernardino"
+
+[[menu.main]]
+  name = "More Lobsters"
+  weight = 20
+  identifier = "more-lobsters"
+  url = "/lobsters/more-lobsters"
+
+
 
 # Add your own params here
 [params]
   author = "Lobsters"
-  avatar = "/img/avatar.jpg"
+  avatar = "/img/avatar.png"
   seotitle = ""
   subtitle = "~ & ~"
   description = ""
