@@ -1,13 +1,13 @@
 ---
 title: The Lobsters
 author: brunoamaral
-type: page
+layout: about
 date: 2017-09-19T10:26:23+00:00
 
 ---
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
 
-# Mas o que são estas lagostas? {.text-align-center}
+# Mas o que são estas lagostas? 
 
 Se nos perguntarem o que somos a resposta vai ser complicada. É tudo demasiado aleatório e ao mesmo tempo há ali um fio condutor que está sempre a mudar e nos mantém unidos.
 

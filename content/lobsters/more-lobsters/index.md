@@ -1,7 +1,7 @@
 ---
 title: More Lobsters
 author: brunoamaral
-type: page
+layout: about
 date: 2017-09-19T10:26:23+00:00
 
 ---

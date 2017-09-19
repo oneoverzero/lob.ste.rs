@@ -1,7 +1,7 @@
 ---
 title: Bruno Amaral
 author: brunoamaral
-type: page
+layout: about
 date: 2017-09-19T10:26:23+00:00
 
 ---
@@ -9,7 +9,6 @@ date: 2017-09-19T10:26:23+00:00
 
 ![][1]
 
-### Bruno Amaral
 
 O Bruno não sabe o que quer ser quando for grande e nós sabemos que ele sem nós estaria perdido. Trabalha em Consultoria de Comunicação Digital, brinca com computadores, gosta de escrever mas nunca encontra temas que lhe toquem ao coração.
 
