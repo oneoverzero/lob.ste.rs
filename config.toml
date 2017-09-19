@@ -3,7 +3,7 @@
 # title = "Lobsters"
 # theme = "hugo-nuo"
 
-baseURL = "https://brunoamaral.github.io/lob.ste.rs/"
+baseURL = "https://oneoverzero.github.io/lob.ste.rs/"
 languageCode = "en"
 title = "Lobsters"
 theme = "hugo-nuo"
