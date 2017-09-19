@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/artur-ventura/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/bruno-amaral/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/bruno-rodrigues/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/celia-ventura/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/more-lobsters/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/nuno-nunes/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/sergio-bernardino/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-lobsters/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2016/12/20/20161220arvore-de-natal-por-medida/</loc>
+    <lastmod>2016-12-20T11:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</loc>
+    <lastmod>2016-12-10T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2016/12/06/20161206pixels-doc-lobsters-making-movies/</loc>
+    <lastmod>2016-12-06T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2016/10/09/2016109lobsters-v10/</loc>
+    <lastmod>2016-10-09T22:26:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lobsters/</loc>
+    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/oozlabs/</loc>
+    <lastmod>2016-12-20T11:11:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/pixelsdoc/</loc>
+    <lastmod>2016-12-06T22:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2016-12-20T11:11:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/uncategorized/</loc>
+    <lastmod>2016-10-09T22:26:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

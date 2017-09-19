@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lobsters</title>
+    <link>http://localhost:1313/lobsters/</link>
+    <description>Recent content on Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 19 Sep 2017 10:26:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/lobsters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artur Ventura</title>
+      <link>http://localhost:1313/lobsters/artur-ventura/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/artur-ventura/</guid>
+      <description>&amp;nbsp;
+Artur Ventura Software Developer é um termo redutor para definir o Artur. Estamos a falar do verdadeiro Investigador dos tempos modernos. O Artur gosta de procurar soluções novas e formas mais eficientes de fazer as coisas. Quando não se dedica à investigação informática, inspecciona os segredos da gastronomia e as major leagues políticas dos Estados Unidos.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Bruno Amaral</title>
+      <link>http://localhost:1313/lobsters/bruno-amaral/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/bruno-amaral/</guid>
+      <description>&amp;nbsp;
+O Bruno não sabe o que quer ser quando for grande e nós sabemos que ele sem nós estaria perdido. Trabalha em Consultoria de Comunicação Digital, brinca com computadores, gosta de escrever mas nunca encontra temas que lhe toquem ao coração.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Bruno Rodrigues</title>
+      <link>http://localhost:1313/lobsters/bruno-rodrigues/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/bruno-rodrigues/</guid>
+      <description>&amp;nbsp;
+Bruno Rodrigues Este Rodrigues, que também é Tiago, é dono de um sentido de humor desmesurado que o próprio insiste em partilhar com os restantes. Engenheiro de redes que não perde as oportunidades de ir correr ou caminhar com os amigos é também o nosso troll. &amp;nbsp;Todos os grupos possuem um troll e nós gostamos muito deste.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Célia Ventura</title>
+      <link>http://localhost:1313/lobsters/celia-ventura/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/celia-ventura/</guid>
+      <description>&amp;nbsp;
+Célia Ventura Arquiteta por formação e blogger por paixão. A Célia escreve no Shoe Committee&amp;nbsp;e chegou ao grupo sem nunca ter imaginado que ia caminhar connosco por tanto tempo. É a ela que temos de agradecer a perspectiva feminina, os conselhos bem ponderados e o facto de o Nuno Nunes cortar o cabelo com regularidade.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>More Lobsters</title>
+      <link>http://localhost:1313/lobsters/more-lobsters/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/more-lobsters/</guid>
+      <description>Há mais Lobsters, se não estão aqui listadas isso é culpa do escriba que insiste em escrever as biografias com a mesma lapiseira Rotring 0,7mm.
+Se falta aqui o vosso nome, se gostariam de o ver listado, e se o quiserem contactar,&amp;nbsp;peçam para que o vosso nome suba na lista de prioridades.</description>
+    </item>
+    
+    <item>
+      <title>Nuno Nunes</title>
+      <link>http://localhost:1313/lobsters/nuno-nunes/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/nuno-nunes/</guid>
+      <description>&amp;nbsp;
+Nuno Nunes O currículo do Nuno diz Arquiteto de Sistemas mas não se deixem enganar. Este amante de trocadilhos tem uma mente irrequieta que já o levou à música e à edição de vídeo. Um dos membros fundadores, pode dizer-se, que entrou nesta corrente por força das ideias intrigantes do 1&amp;frasl;0 e de um batom do cieiro.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Sérgio Bernardino</title>
+      <link>http://localhost:1313/lobsters/sergio-bernardino/</link>
+      <pubDate>Tue, 19 Sep 2017 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lobsters/sergio-bernardino/</guid>
+      <description>&amp;nbsp;
+Sérgio Bernardino O Sérgio não perde o foco. Troca com toda a frequência possível as linhas de código pelas noites de música ao vivo e as sessões de cinema sem esquecer a fotografia analógica ou digital. Está tudo à vista no portfolio.
+&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>
