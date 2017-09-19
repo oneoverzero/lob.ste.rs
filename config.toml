@@ -1,4 +1,4 @@
 baseURL = "https://lob.ste.rs/"
 languageCode = "en-us"
 title = "Lobsters"
-theme = "tracks-theme"
+theme = "hugo-nuo"
