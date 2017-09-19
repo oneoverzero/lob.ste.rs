@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Lobsters</title>
-    <link>http://localhost:1313/categories/uncategorized/</link>
+    <link>https://brunoamaral.github.io/lob.ste.rs/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 22:26:34 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brunoamaral.github.io/lob.ste.rs/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lob.ste.rs v1.0</title>
-      <link>http://localhost:1313/2016/10/09/2016109lobsters-v10/</link>
+      <link>https://brunoamaral.github.io/lob.ste.rs/2016/10/09/2016109lobsters-v10/</link>
       <pubDate>Sun, 09 Oct 2016 22:26:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/2016/10/09/2016109lobsters-v10/</guid>
+      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/10/09/2016109lobsters-v10/</guid>
       <description>Os lobsters são um grupo bastante profícuo em ideias loucas, trocadilhos inesperados e histórias para contar.
 Mesmo muitas histórias para contar.
 São os responsáveis pelo OneOverZero Labs, pela proibição das Nerfs no último Codebits, e pela tarefa improvável de arrumar a garagem do Fernando Afonso.

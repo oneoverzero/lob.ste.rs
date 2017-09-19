@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lobsters</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://brunoamaral.github.io/lob.ste.rs/posts/</link>
     <description>Recent content in Posts on Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Tue, 20 Dec 2016 11:11:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brunoamaral.github.io/lob.ste.rs/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Árvore de Natal por medida</title>
-      <link>http://localhost:1313/2016/12/20/20161220arvore-de-natal-por-medida/</link>
+      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/20/20161220arvore-de-natal-por-medida/</link>
       <pubDate>Tue, 20 Dec 2016 11:11:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2016/12/20/20161220arvore-de-natal-por-medida/</guid>
+      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/20/20161220arvore-de-natal-por-medida/</guid>
       <description>Não somos uma família convencional, não gostamos do habitual. O Natal é uma altura do ano que vivemos com muita intensidade e que gostamos de celebrar, em que temos as nossas tradições e em que gostamos de receber muitos amigos, a família que se escolhe, não para trocar presentes mas para passarmos umas boas horas em convívio.
 Partilhar uma vida com uma pessoa que gosta de fazer coisas é um constante desafio.</description>
     </item>
     
     <item>
       <title>Lobsters a criar – o projecto OOZ Labs</title>
-      <link>http://localhost:1313/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</link>
+      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</link>
       <pubDate>Sat, 10 Dec 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</guid>
+      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/10/20161210lobsters-a-criar-o-projecto-ooz-labs/</guid>
       <description>Os lobsters gostam muito de falar. Discutem tudo, desde os temas mais banais de cultura pop até aos conceitos científicos mais avançados ou mesmo os assuntos mais rebuscados como a vinda da Singularidade, passando pela fotografia e outras expressões artísticas e… e muito mais!
 Mas também há nesta gente a vontade de criar, não só no mundo virtual mas também no mundo fisico. Alguns de nós até conseguem, de vez em quando, arranjar algum tempo livre para dedicar a essas actividades criativas e foi desse núcleo que nasceu o projecto OOZ Labs (OneOverZero Labs.</description>
     </item>
     
     <item>
       <title>PixelsDoc – Lobsters Making Movies</title>
-      <link>http://localhost:1313/2016/12/06/20161206pixels-doc-lobsters-making-movies/</link>
+      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</link>
       <pubDate>Tue, 06 Dec 2016 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2016/12/06/20161206pixels-doc-lobsters-making-movies/</guid>
+      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</guid>
       <description>Maybe you&amp;#8217;ve heard of Pixels Camp?&amp;nbsp;Or perhaps, more likely, the name Codebits rings a bell?
 Well, if you don&amp;#8217;t know what any of those things are (hint: they are the same thing, with a different name because of a recent re-branding) you are in luck because these Lobster friends of yours are about to embark on a new project that will make it all clear.
 As anyone who knows about these events might guess, the bulk of the Lobsters cabal has been drawn to them ever since they started happening in 2007.</description>
@@ -45,10 +45,10 @@ As anyone who knows about these events might guess, the bulk of the Lobsters cab
     
     <item>
       <title>Lob.ste.rs v1.0</title>
-      <link>http://localhost:1313/2016/10/09/2016109lobsters-v10/</link>
+      <link>https://brunoamaral.github.io/lob.ste.rs/2016/10/09/2016109lobsters-v10/</link>
       <pubDate>Sun, 09 Oct 2016 22:26:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/2016/10/09/2016109lobsters-v10/</guid>
+      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/10/09/2016109lobsters-v10/</guid>
       <description>Os lobsters são um grupo bastante profícuo em ideias loucas, trocadilhos inesperados e histórias para contar.
 Mesmo muitas histórias para contar.
 São os responsáveis pelo OneOverZero Labs, pela proibição das Nerfs no último Codebits, e pela tarefa improvável de arrumar a garagem do Fernando Afonso.

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pixelsdoc on Lobsters</title>
-    <link>http://localhost:1313/categories/pixelsdoc/</link>
+    <link>https://brunoamaral.github.io/lob.ste.rs/categories/pixelsdoc/</link>
     <description>Recent content in Pixelsdoc on Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Tue, 06 Dec 2016 22:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/pixelsdoc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brunoamaral.github.io/lob.ste.rs/categories/pixelsdoc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PixelsDoc – Lobsters Making Movies</title>
-      <link>http://localhost:1313/2016/12/06/20161206pixels-doc-lobsters-making-movies/</link>
+      <link>https://brunoamaral.github.io/lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</link>
       <pubDate>Tue, 06 Dec 2016 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2016/12/06/20161206pixels-doc-lobsters-making-movies/</guid>
+      <guid>https://brunoamaral.github.io/lob.ste.rs/2016/12/06/20161206pixels-doc-lobsters-making-movies/</guid>
       <description>Maybe you&amp;#8217;ve heard of Pixels Camp?&amp;nbsp;Or perhaps, more likely, the name Codebits rings a bell?
 Well, if you don&amp;#8217;t know what any of those things are (hint: they are the same thing, with a different name because of a recent re-branding) you are in luck because these Lobster friends of yours are about to embark on a new project that will make it all clear.
 As anyone who knows about these events might guess, the bulk of the Lobsters cabal has been drawn to them ever since they started happening in 2007.</description>
