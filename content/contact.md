@@ -1,7 +1,7 @@
 ---
 title: Dear lobsters
 author: brunoamaral
-layout: page
+layout: about
 date: 2017-09-19T10:26:23+00:00
 
 ---
