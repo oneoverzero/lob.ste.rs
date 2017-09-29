@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://lob.ste.rs/badge/</loc>
+    <lastmod>2017-09-29T10:58:51+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lob.ste.rs/lobsters/artur-ventura/</loc>
     <lastmod>2017-09-19T10:26:23+00:00</lastmod>
   </url>
@@ -74,7 +79,7 @@
   
   <url>
     <loc>http://lob.ste.rs/</loc>
-    <lastmod>2017-09-19T10:26:23+00:00</lastmod>
+    <lastmod>2017-09-29T10:58:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
